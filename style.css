@@ -2,7 +2,7 @@
     background-color:LightBlue;
 }
 
-.tooltip:hover .tooltip-text{
+.tooltip:hover.tooltip-text{
     visibility:visible;
 }
 
