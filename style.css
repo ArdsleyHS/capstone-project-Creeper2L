@@ -29,7 +29,7 @@ p {
     font-size:50px;
 }
 .picture {
-    width:200px;
+    width:400px;
 }
 img {
   border: 5px solid #555;
@@ -37,10 +37,10 @@ img {
 
 .picture {
   height:200px;
-  margin-top:20px; 
-   margin-bottom:20px;
-   margin-right:20px;
-   margin-left:20px;
+  margin-top:50px; 
+   margin-bottom:50px;
+   margin-right:50px;
+   margin-left:50px;
 }
 nav {
     margin: 0 0 0 0;
