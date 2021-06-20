@@ -40,6 +40,7 @@ img {
    margin-bottom:20px;
    margin-right:20px;
    margin-left:20px;
+}
 nav {
     margin: 0 0 0 0;
     font-family: Arial;
@@ -50,10 +51,15 @@ nav {
 .windowtable {
   text-align:center;
   margin:auto;
-  display:inline;
+  font-size:40px;
 }
-.ul {
-  display:inline;
+.windowlists {
   margin:auto;
   text-align:center;
+  font-size:40px;
+}
+.windowtitle{
+  margin:auto;
+  text-align:center;
+  font-size:50px;
 }
