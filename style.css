@@ -41,9 +41,16 @@ img {
   border: 5px solid #555;
 }
 
+.picture {
+  height:200px;
+  margin-top:20px; 
+   margin-bottom:20px;
+   margin-right:20px;
+   margin-left:20px;
 nav {
     margin: 0 0 0 0;
     font-family: Arial;
     font-size: 100%;
     width: 100%;
+    overflow: hidden;
  }
