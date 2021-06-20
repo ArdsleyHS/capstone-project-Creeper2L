@@ -49,5 +49,10 @@ nav {
  }
 .windowtable {
   text-align:center;
-  margin-left:auto;margin-right:auto;
+  margin:auto;
+  display:inline;
+}
+.ul {
+  display:inline;
+  margin:auto;
 }
