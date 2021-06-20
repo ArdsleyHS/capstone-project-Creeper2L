@@ -2,33 +2,26 @@
     background-color:LightBlue;
 }
 
-.tooltip:hover.tooltip-text{
+#single-double:hover .caption{
     visibility:visible;
 }
 
-
-.tooltip{
-   position:relative;
-   display:inline-block;
-   height:100px;
-    visibility:visible;
+#arched:hover .caption{
+   visibility:visible;
 }
 
-.tooltip-text{
-    width: 200px;
-    background-color:aquamarine;
-    color:purple;
-    text-align: center;
-    border-radius:6px; 
-    position: absolute;
-    z-index: 1;  
-    left:100%;
-    top:0%;
-    padding:5px;
+#awning:hover .caption{
+   visibility:visible;
+}
+.gallery-item{
+    border:2px dashed black;
+    margin:25px;
+    padding:10px;
+    
+}
+.caption{
     visibility:hidden;
 }
-
-
 p {
     border:solid;
     padding:10px;
